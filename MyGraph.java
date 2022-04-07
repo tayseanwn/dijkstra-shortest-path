@@ -14,7 +14,7 @@ import java.util.*;
 /*
  * Implement a graph representation.
  * The operations to the MyGraph class follow the implementation of the Graph interface. 
- * Vertex, Edge, and MyGraph classes, but please do not remove code
+ * Vertex, Edge, and MyGraph classes
  * Should implement a graph and efficient (in particular, good asymptotic complexity for the operations)
  * Needs a good graph representation for computing shortest paths according to Dijkstra’s algorithm
  * Should protect its abstraction from bad clients.
