@@ -71,10 +71,10 @@ public class TestGraph {
 			
 			input.nextLine(); // avoid skipping the next input
 			
-			System.out.print("Choose a source vertex (e.g. to choose v(ATL) enter \"ATL\": ");
+			System.out.print("Choose a source vertex (e.g. to choose v(ATL) enter \"ATL\"): ");
 			String aTemp = input.nextLine();
 			
-			System.out.print("Choose a destination vertex (e.g. to choose v(DEN) enter \"DEN\": ");
+			System.out.print("Choose a destination vertex (e.g. to choose v(DEN) enter \"DEN\"): ");
 			String bTemp = input.nextLine();
 			
 			// LOCATE the two vertices
