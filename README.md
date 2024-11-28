@@ -2,7 +2,7 @@
 Dijkstra's Shortest Path Algorithm
 
 <h1>Language</h1>
-Java
+java
 
 <h2>Overview</h2>
 
